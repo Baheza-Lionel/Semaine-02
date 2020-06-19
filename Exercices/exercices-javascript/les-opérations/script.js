@@ -24,6 +24,3 @@ let Rate = 0.19;
 const Sold = 15.1981;
 console.log(Prix * Rate);
 console.log(Prixinitial - Sold);
-Const Divisionby = 3;
-console.log(firstNumber / Divisionby);
-
