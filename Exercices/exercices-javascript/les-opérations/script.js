@@ -7,5 +7,23 @@ let forthNumber = 4;
 console.log(secondNumber * forthNumber);
 let fifthNumber = 8;
 console.log(secondNumber * fifthNumber);
-function divisionBytwo
-return
+const Firstnum = 2;
+let Secondnum = 6;
+const Thirdnum = 356;
+let Fourthnum = 130;
+const Fifthnum = 196;
+let Sixthnum = 246;
+console.log(Secondnum / Firstnum);
+console.log(Thirdnum / Firstnum);
+console.log(Fourthnum / Firstnum);
+console.log(Fifthnum / Firstnum);
+console.log(Sixthnum / Firstnum);
+const Prix = 79.99;
+let Prixinitial = 79.99;
+let Rate = 0.19;
+const Sold = 15.1981;
+console.log(Prix * Rate);
+console.log(Prixinitial - Sold);
+Const Divisionby = 3;
+console.log(firstNumber / Divisionby);
+
